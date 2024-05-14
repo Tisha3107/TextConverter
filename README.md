@@ -1,5 +1,26 @@
 # Getting Started with Create React App
 
+I'm attaching screenshots of my react project :)
+
+![image](https://github.com/Tisha3107/TextConverter/assets/100868235/96048ad1-5a47-40d2-ab5f-e0217daee0e4)
+
+//UpperCase Example 
+![image](https://github.com/Tisha3107/TextConverter/assets/100868235/52b1207e-0052-47f3-9499-cdb78795c1c2)
+
+//LowerCase Example
+![image](https://github.com/Tisha3107/TextConverter/assets/100868235/9d08f0ed-8f74-4122-acd5-d396be129318)
+
+//Copied To Clipboard
+![image](https://github.com/Tisha3107/TextConverter/assets/100868235/cfbfd177-7576-41f9-b4eb-8e2b00ee72cd)
+
+
+
+![image](https://github.com/Tisha3107/TextConverter/assets/100868235/a4959369-0b9f-4791-977b-b3f1016967b6)
+
+![image](https://github.com/Tisha3107/TextConverter/assets/100868235/d4ecd9b4-a7c4-4357-8b5a-7b56e8f3ab60)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
